@@ -27,3 +27,14 @@ article {
   margin: 0 1.5%;
   width: 100%;
 }
+
+.text-title{
+  font-family: 'Jacques Francois Shadow', cursive;
+  font-size: 2rem;
+}
+
+.subtitle{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 3ex;
+  font-weight: 300;
+}

@@ -2,4 +2,12 @@ img{
   height: 120px;
   width: 120px;
   flex: left;
+  box-shadow: 3px 3px;
 }
+
+.text-title{
+  font-family: 'Jacques Francois Shadow', cursive;
+  font-size: 2rem;
+}
+
+

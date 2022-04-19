@@ -10,7 +10,7 @@ export class BannerComponent implements OnInit {
   urlImage: string;
 
   constructor() {
-    this.urlImage = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJbTiHUNCdsM2VuxwOJhK6wQhAyBJYdunJYQ&usqp=CAU";
+    this.urlImage = "https://us.123rf.com/450wm/krasyuk/krasyuk1601/krasyuk160100026/51359375-placa-de-circuito-electr%C3%B3nico-con-procesador-de-cerca-.jpg?ver=6";
    }
 
   ngOnInit(): void {

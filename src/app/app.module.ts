@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { RouterModule } from '@angular/router';
 
 import { AppComponent } from './app.component';
 import { ComponenteComponent } from './components/component/componente.component';
@@ -24,7 +25,8 @@ import { ExperienceComponent } from './components/experience/experience.componen
     ExperienceComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    
   ],
   providers: [],
   bootstrap: [AppComponent]
