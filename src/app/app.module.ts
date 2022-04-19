@@ -9,6 +9,7 @@ import { DashboardComponent } from './components/dashboard/dashboard.component';
 import { BannerComponent } from './components/banner/banner.component';
 import { AboutComponent } from './components/about/about.component';
 import { StudieComponent } from './components/studie/studie.component';
+import { ExperienceComponent } from './components/experience/experience.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { StudieComponent } from './components/studie/studie.component';
     DashboardComponent,
     BannerComponent,
     AboutComponent,
-    StudieComponent
+    StudieComponent,
+    ExperienceComponent
   ],
   imports: [
     BrowserModule

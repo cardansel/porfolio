@@ -1,0 +1,29 @@
+#img
+{
+
+    width: 220px;
+    float: left;
+    position: absolute;
+    z-index: 1;
+}
+
+#img-text{
+ position: absolute;
+  z-index: 2;
+}
+
+aside {
+  float: left;
+  margin: 0 1.5%;
+  width: 30%;
+}
+section {
+  float: left;
+  margin: 0 1.5%;
+  width: 100%;
+}
+article {
+  float:left;
+  margin: 0 1.5%;
+  width: 100%;
+}
